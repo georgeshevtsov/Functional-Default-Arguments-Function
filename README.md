@@ -1,3 +1,5 @@
+# Default Argument Function
+
 Implementation of a Default Arguments Function
 This function is quite similar to a curry function. First Argument is a function to return later the other arguments is Params arg.
 Params Arg - is an object which should have same key as arguments of the first arguments. 
